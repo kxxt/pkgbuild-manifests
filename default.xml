@@ -21,4 +21,6 @@
         <linkfile src="bluetooth-support" dest="bluetooth-support" />
         <linkfile src="alsa-support" dest="alsa-support" />
     </project>
+
+    <include name="snippets/aur.xml" />
 </manifest>
