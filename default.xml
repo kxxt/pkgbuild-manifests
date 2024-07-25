@@ -21,7 +21,7 @@
         <linkfile src="bluetooth-support" dest="bluetooth-support" />
         <linkfile src="alsa-support" dest="alsa-support" />
         <linkfile src="input-devices-support" dest="input-devices-support" />
-        <linkfile src="network-manager-support" dest="network-manager-support" />
+        <linkfile src="networkmanager-support" dest="networkmanager-support" />
         <linkfile src="pipewire-support" dest="pipewire-support" />
         <linkfile src="samba-support" dest="samba-support" />
         <linkfile src="snapper-support" dest="snapper-support" />
