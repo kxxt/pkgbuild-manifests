@@ -41,6 +41,8 @@
     <project name="debugger-meta"/>
     <project name="trust-meta"/>
     <project name="system-maintainance-meta"/>
+    <project name="archrv-devel"/>
+    <project name="virt-meta"/>
 
     <include name="snippets/aur.xml" />
 </manifest>
