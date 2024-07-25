@@ -13,7 +13,7 @@
     <remote name="aur" revision="master"
         fetch="https://aur.archlinux.org/" />
     <default revision="main"
-        remote="github"
+        remote="kxxt"
         sync-c="true"
         sync-j="8" />
 
