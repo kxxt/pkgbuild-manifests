@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="selinux-python" name="selinux-python" remote="aur" />
+    <project path="libsemanage" name="libsemanage" remote="aur" />
+    <project path="setools" name="setools" remote="aur" />
     <project path="ecapture" name="ecapture" remote="aur" />
 </manifest>
