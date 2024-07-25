@@ -3,7 +3,7 @@
     <remote name="github"
         fetch="https://github.com" />
     <remote name="kxxt"
-        fetch="https://github.com/kxxt" />
+        fetch="https://gitlab.com/kxxt-pkgbuilds" />
     <remote name="gitlab"
         fetch="https://gitlab.com" />
     <remote name="arch"
