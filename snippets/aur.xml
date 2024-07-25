@@ -4,4 +4,5 @@
     <project path="libsemanage" name="libsemanage" remote="aur" />
     <project path="setools" name="setools" remote="aur" />
     <project path="ecapture" name="ecapture" remote="aur" />
+    <project name="pstack" remote="aur" />
 </manifest>
