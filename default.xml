@@ -31,12 +31,16 @@
 
     <project name="base-desktop"/>
     <project name="base-fonts"/>
+    <project name="base-shell-ux"/>
     <project name="editor-meta"/>
     <project name="kxxt-plasma-setup"/>
     <project name="networking-meta"/>
     <project name="process-utilities"/>
     <project name="term-bundle"/>
     <project name="version-control-meta"/>
+    <project name="debugger-meta"/>
+    <project name="trust-meta"/>
+    <project name="system-maintainance-meta"/>
 
     <include name="snippets/aur.xml" />
 </manifest>
