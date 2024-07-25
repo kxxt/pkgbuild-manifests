@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github"
+        fetch="https://github.com" />
+    <remote name="kxxt"
+        fetch="https://github.com/kxxt" />
+    <remote name="gitlab"
+        fetch="https://gitlab.com" />
+    <remote name="arch"
+        fetch="https://gitlab.archlinux.org/archlinux/packaging/packages" />
+    <remote name="garuda"
+        fetch="https://gitlab.com/garuda-linux" />
+    <remote name="aur" revision="master"
+        fetch="https://aur.archlinux.org/" />
+    <default revision="main"
+        remote="github"
+        sync-c="true"
+        sync-j="8" />
+
+    <project path="third_party/garuda" name="pkgbuilds" remote="garuda">
+        <linkfile src="bluetooth-support" dest="bluetooth-support" />
+        <linkfile src="alsa-support" dest="alsa-support" />
+    </project>
+</manifest>
