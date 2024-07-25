@@ -29,6 +29,7 @@
     </project>
 
     <project name="base-desktop"/>
+    <project name="base-fonts"/>
     <project name="editor-meta"/>
     <project name="kxxt-plasma-setup"/>
     <project name="networking-meta"/>
