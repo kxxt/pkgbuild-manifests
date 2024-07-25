@@ -28,5 +28,13 @@
         <linkfile src="virt-manager-meta" dest="virt-manager-meta" />
     </project>
 
+    <project name="base-desktop"/>
+    <project name="editor-meta"/>
+    <project name="kxxt-plasma-setup"/>
+    <project name="networking-meta"/>
+    <project name="process-utilities"/>
+    <project name="term-bundle"/>
+    <project name="version-control-meta"/>
+
     <include name="snippets/aur.xml" />
 </manifest>
