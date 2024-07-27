@@ -4,7 +4,7 @@
         fetch="https://github.com" />
     <remote name="kxxt"
         fetch="https://gitlab.com/kxxt-pkgbuilds"
-        pushurl="git@gitlab.com/kxxt-pkgbuilds" />
+        pushurl="git@gitlab.com:kxxt-pkgbuilds" />
     <remote name="gitlab"
         fetch="https://gitlab.com" />
     <remote name="arch"
