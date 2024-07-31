@@ -5,4 +5,5 @@
     <project name="setools" remote="aur" />
     <project name="ecapture" remote="aur" />
     <project name="pstack" remote="aur" />
+    <project name="aspeak" remote="aur" />
 </manifest>
