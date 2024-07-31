@@ -5,4 +5,5 @@
     <project path="setools" name="setools" remote="aur" />
     <project path="ecapture" name="ecapture" remote="aur" />
     <project name="pstack" remote="aur" />
+    <project name="serie" remote="aur" />
 </manifest>
