@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="selinux-python" name="selinux-python" remote="aur" />
-    <project path="libsemanage" name="libsemanage" remote="aur" />
-    <project path="setools" name="setools" remote="aur" />
-    <project path="ecapture" name="ecapture" remote="aur" />
+    <project name="selinux-python" remote="aur" />
+    <project name="libsemanage" remote="aur" />
+    <project name="setools" remote="aur" />
+    <project name="ecapture" remote="aur" />
     <project name="pstack" remote="aur" />
     <project name="serie" remote="aur" />
 </manifest>
