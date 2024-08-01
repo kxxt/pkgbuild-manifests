@@ -18,6 +18,8 @@
         sync-c="true"
         sync-j="8" />
 
+    <project path="scripts" name="kxxt/pkgbuild-scripts" remote="github" />
+
     <project path="third_party/garuda" name="pkgbuilds" remote="garuda">
         <linkfile src="bluetooth-support" dest="bluetooth-support" />
         <linkfile src="alsa-support" dest="alsa-support" />
