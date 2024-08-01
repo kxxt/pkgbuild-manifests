@@ -50,6 +50,7 @@
     <project name="rust-devel"/>
     <project name="laptop-power-management-meta"/>
     <project name="platform-hp-spectre-x360"/>
+    <project name="kxxt-config"/>
 
 
     <project path="onlyoffice" name="kxxt/aur-onlyoffice" remote="github" pushUrl="ssh://aur@aur.archlinux.org/onlyoffice.git" revision="master"/>
