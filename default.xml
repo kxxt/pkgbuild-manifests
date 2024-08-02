@@ -12,7 +12,8 @@
     <remote name="garuda"
         fetch="https://gitlab.com/garuda-linux" />
     <remote name="aur" revision="master"
-        fetch="https://aur.archlinux.org/" />
+        fetch="https://aur.archlinux.org/"
+        pushUrl="ssh://aur@aur.archlinux.org" />
     <default revision="main"
         remote="kxxt"
         sync-c="true"

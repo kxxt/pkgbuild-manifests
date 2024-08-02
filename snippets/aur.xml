@@ -6,4 +6,5 @@
     <project name="ecapture" remote="aur" />
     <project name="pstack" remote="aur" />
     <project name="aspeak" remote="aur" />
+    <project name="bpftool" remote="aur" />
 </manifest>
