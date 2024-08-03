@@ -7,4 +7,5 @@
     <project name="pstack" remote="aur" />
     <project name="aspeak" remote="aur" />
     <project name="bpftool" remote="aur" />
+    <project name="aya-tool-git" remote="aur" />
 </manifest>
