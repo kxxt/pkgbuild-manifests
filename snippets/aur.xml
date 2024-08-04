@@ -9,4 +9,5 @@
     <project name="bpftool" remote="aur" />
     <project name="aya-tool-git" remote="aur" />
     <project name="bpf-linker" remote="aur" />
+    <project name="wayfarer" remote="aur" />
 </manifest>
