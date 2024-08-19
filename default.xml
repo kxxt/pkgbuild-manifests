@@ -56,6 +56,7 @@
     <project name="diagram-meta"/>
     <project name="system-devel"/>
 
+    <project name="neovim-is-vim"/>
 
     <project path="onlyoffice" name="kxxt/aur-onlyoffice" remote="github" pushUrl="ssh://aur@aur.archlinux.org/onlyoffice.git" revision="master"/>
 
