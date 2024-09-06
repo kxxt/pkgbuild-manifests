@@ -57,6 +57,7 @@
     <project name="system-devel"/>
     <project name="cosmic-devel"/>
     <project name="repl-meta"/>
+    <project name="typesetting-meta"/>
 
     <project name="neovim-is-vim"/>
 
